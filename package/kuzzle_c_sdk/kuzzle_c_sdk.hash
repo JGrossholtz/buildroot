@@ -1,0 +1,5 @@
+# Locally calculated after checking gpg signature
+sha256 31a0c9039c00eb7e8339a4ef835b44175089baf88f938d97cb270b42aeba63d6 kuzzle_c_sdk-3980fa4c48e35324e06e8362146f25e65c0055c1.tar.gz
+
+# License files
+sha256 9187a86f1214bba9a44870fb99fea891112ef3f0504feab4ede6fea97fab8941 LICENSE.md
